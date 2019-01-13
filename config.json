@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "Twitterverse of Belgrade anti-government protests against media censorship, political violence and rising autocracy in Serbia. There are 4958 nodes and 10298 edges. The network consists of tweets containing the hashtag #1od5miliona, posted between December 25,  and December 29. Two nodes are linked if one user retweets another users tweet. The diffusion of information in the network is driven by opposition parties, opposition politicians and some media, while there is no visible pro- and anti-regime polarization.",
+    "intro": "Twitterverse of Belgrade anti-government protests against media censorship, political violence and rising autocracy in Serbia. There are 2909 nodes and 6889 edges. The network consists of tweets containing the hashtag #1od5miliona, posted between December 25,  and December 29. Two nodes are linked if one user retweets another users tweet. The diffusion of information in the network is driven by opposition parties, opposition politicians and some media, while there is no visible pro- and anti-regime polarization.",
     "title": "Anti-government protests in Belgrade, December 29: #1od5miliona"
   },
   "legend": {
